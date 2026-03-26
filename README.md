@@ -7,7 +7,7 @@ An experienced and passionate **Full Stack Developer**, I bring over **three yea
 
 ## 🚀 Professional Profile  
 
-- **Experience:** 3+ years of hands-on experience in software development, delivering scalable and high-quality projects.  
+- **Experience:** 4+ years of hands-on experience in software development, delivering scalable and high-quality projects.  
 - **Expertise:** Specialized in both frontend and backend development with proficiency in modern web frameworks and tools.  
 - **Focus:** Building efficient, maintainable, and scalable digital solutions with an emphasis on performance and user satisfaction.  
 - **Collaboration:** Strong team player familiar with **Agile methodologies** and **version control systems** like Git.  
@@ -26,7 +26,7 @@ An experienced and passionate **Full Stack Developer**, I bring over **three yea
 ### 🧩 Backend Technologies  
 `Laravel` · `PHP` · `CakePHP` · `React` · `Angular` 
 
-### 🗄️ Databases & Storage  
+### 🗄️ Databases & Storage  News You are requested to complete your e-nomination and update your bank details on the UAN portal to avail the benefits under EPF and EPS.?
 `MySQL`  
 
 ### ☁️ DevOps & Infrastructure  
