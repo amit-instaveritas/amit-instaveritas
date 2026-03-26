@@ -1,7 +1,7 @@
 # 👋 Amit Kumar Kesharwani | Full Stack Developer 💻  
 
 ### About Me  
-An experienced and passionate **Full Stack Developer**, I bring over **three years of expertise** in building cutting-edge web applications and robust backend systems. I specialize in leveraging modern technologies to transform complex problems into elegant, high-performance solutions. With a strong commitment to innovation and quality, I aim to craft software that delivers real value and exceptional user experiences.  
+An experienced and passionate **Full Stack Developer**, I bring over **four years of expertise** in building cutting-edge web applications and robust backend systems. I specialize in leveraging modern technologies to transform complex problems into elegant, high-performance solutions. With a strong commitment to innovation and quality, I aim to craft software that delivers real value and exceptional user experiences.  
 
 ---
 
